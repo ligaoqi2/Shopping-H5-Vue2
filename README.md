@@ -34,7 +34,7 @@ npm run build
 * [Vue2](https://v2.cn.vuejs.org/)
 * [黑马程序员](https://space.bilibili.com/37974444)
 
-## 8.Contact
+## 8. Contact
 ```
 ligaoqi02@gmail.com
 ```
