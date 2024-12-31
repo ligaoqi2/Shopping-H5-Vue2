@@ -9,7 +9,7 @@
 <img src="./image/User.png" width="180" height="360">
 </div>
 
-## 2. Reference：
+## 2. Reference
 [黑马智慧商城](https://www.bilibili.com/video/BV1HV4y1a7n4?spm_id_from=333.788.videopod.episodes&vd_source=bad6777c11b618c6cc7845eb5b9d31a6&p=100)
 
 ## 3. API documentation
